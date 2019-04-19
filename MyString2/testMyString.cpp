@@ -3,7 +3,7 @@
 #include "MyString.h"
 using namespace std;
 
-//overloaded << operator
+//overloaded << operator 
 //parameters: const myString &s
 //returns ostream item
 ostream& operator<<(ostream &o, const myString &s)
